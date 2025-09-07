@@ -1,9 +1,10 @@
 # Hi there, I'm Mohamed Agougil! 👋
 
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Computer+Science+%26+Engineering;Cloud+Architect+%26+System+Designer;Full-Stack+%26+Mobile+Developer;Industrial+Automation+Enthusiast" alt="Typing SVG" />
 </div>
-
+-->
 ## About Me
 
 > *"Building impactful systems that bridge technology and real-world solutions"*
